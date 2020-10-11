@@ -11,5 +11,4 @@ public class VarialeCheck {
 		String fuel1 = "p";
 		boolean onoff = true;
 	}
-
 }
